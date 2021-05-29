@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+.container1{
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 30px;
+}
